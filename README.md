@@ -6,8 +6,6 @@ This project is a deep learning model built using JAX and Keras to classify hand
 
 Requirements
 
-To run this project, you need the following dependencies:
-
 Python 3.x
 
 JAX
